@@ -1,5 +1,9 @@
 streamlit
 opencv-python-headless
-Pillow
+pillow
 numpy
+pandas
 easyocr
+reportlab
+python-docx
+openpyxl
